@@ -1,5 +1,4 @@
 package bst;
-import java.util.Arrays;
 // Class for tree nodes
 class Node{
     int value;
