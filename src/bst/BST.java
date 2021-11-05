@@ -1,5 +1,4 @@
 package bst;
-import java.util.Arrays;
 // Class for Binary Search Tree
 class BST{
     Node node;
